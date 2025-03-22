@@ -1,0 +1,9 @@
+.drawer {
+  width: 150px;
+  flex-shrink: 0;
+  position: relative;
+  height: auto !important;
+}
+.beauty {
+  color: rgb(156, 35, 255);
+}
